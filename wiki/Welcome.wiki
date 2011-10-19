@@ -16,12 +16,19 @@ Plugin Wordpress Profile : http://profiles.wordpress.org/users/karthiksg
     Date: 16 Oct 2011
 
     Copyright 2011  All Rights Reserved.
+
     Name : Alagappan Karthikeyan
+
     Email : me@karthik.sg
+
     Website : www.karthik.sg
+
     Demo    : www.karthik.sg/wp_projects/jaxcon/demo/
+
     support : www.karthik.sg/wp_projects/jaxcon/demo/support/
+
     Screenshots : www.karthik.sg/wp_projects/jaxcon/demo/gallery/
+
     Video Instructions : www.karthik.sg/wp_projects/jaxcon/demo/vdo
 	
     This program is free software; you can redistribute it and/or modify
@@ -40,7 +47,9 @@ Plugin Wordpress Profile : http://profiles.wordpress.org/users/karthiksg
 
 === Jax Contact Form With recaptcha ===
 Donate link: paypal : me@karthik.sg
-Tags: recaptcha form, recaptcha contact form, contact, form, contact form, recaptcha, antispam, captcha, contact form with captcha,secured contact form,secure contact form,contact form with captcha validation.
+
+Tags: recaptcha form, recaptcha contact form, contact, form, contact 
+form, recaptcha, antispam, captcha, contact form with captcha,secured contact form,secure contact form,contact form with captcha validation.
 
 wordpress profile : http://profiles.wordpress.org/users/karthiksg
 
