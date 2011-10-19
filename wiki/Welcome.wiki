@@ -1,10 +1,16 @@
 #labels jacks,contact,form,with,captcha,wordpress,plugin
 Plugin Name: Jax Contact Form With ReCaptcha
+
 Plugin URI: http://www.karthik.sg/wp_projects/jaxcon/
+
 Plugin Description: Setup a secured validated Jax Contact Form with Recaptcha. 
+
 Plugin Version: 1.0
+
 Plugin Author: Alagappan Karthikeyan (JACK)
+
 Plugin Author URI: http://www.karthik.sg/
+
 Plugin Wordpress Profile : http://profiles.wordpress.org/users/karthiksg
 
     Date: 16 Oct 2011
